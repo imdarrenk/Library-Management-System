@@ -1,10 +1,10 @@
-# 📦 Inventory Management System  
+# Inventory Management System  
 
 A **console-based Inventory Management System** developed in Python as part of the **CSC1024 Programming Principles Group Project**.
 
 ---
 
-## 📖 Overview  
+## Overview  
 
 This project simulates a simple inventory system for small businesses, allowing users to manage:
 
@@ -55,7 +55,7 @@ The system uses **text files as a database**, demonstrating fundamental programm
 
 ---
 
-### 🧩 Core Modules  
+### Modules  
 
 | Module   | Description                          |
 |----------|--------------------------------------|
@@ -67,7 +67,7 @@ The system uses **text files as a database**, demonstrating fundamental programm
 
 ---
 
-## 🔧 Key Functions  
+## Key Functions  
 
 ### Utility  
 - `getInput()` → Validates user input  
@@ -97,4 +97,3 @@ The system uses **text files as a database**, demonstrating fundamental programm
 ### System  
 - `menu()`  
 - `main()`  
-
